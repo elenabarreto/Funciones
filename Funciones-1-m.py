@@ -13,8 +13,8 @@ def ubicar(x):
 	else:
 		return "a izquierda"
 
-x = input("Ingresar un número: ")
+#x = input("Ingresar un número: ")
 
-salida = ubicar(x)
+#salida = ubicar(x)
 
-print("El número ingresado está %s del rango dado." % (salida))
+#print("El número ingresado está %s del rango dado." % (salida))
