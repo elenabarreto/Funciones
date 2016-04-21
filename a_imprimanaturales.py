@@ -7,5 +7,5 @@
 
 		
 
-	k=input("Ingrese el valor hasta el cual desea ver los numeros naturales: ")
-	numnatural(k)
+	#k=input("Ingrese el valor hasta el cual desea ver los numeros naturales: ")
+	#numnatural(k)
